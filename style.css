@@ -1,8 +1,10 @@
 body {
-  font-family: Arial;
-  margin: 40px;
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding-top: 50px;
 }
-form input, form button {
-  padding: 8px;
-  margin: 4px;
+
+h1 {
+  color: #0077cc;
 }
